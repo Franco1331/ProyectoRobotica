@@ -1,0 +1,25 @@
+[0.852s] Invoking command in '/home/franco/Proyecto_ws/udp_driver_ws/src/udp_cmd_vel_interpreter': PYTHONPATH=/home/franco/Proyecto_ws/build/udp_cmd_vel_interpreter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/franco/Proyecto_ws/install/udp_cmd_vel_interpreter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/udp_cmd_vel_interpreter build --build-base /home/franco/Proyecto_ws/build/udp_cmd_vel_interpreter/build install --record /home/franco/Proyecto_ws/build/udp_cmd_vel_interpreter/install.log --single-version-externally-managed install_data
+[1.085s] running egg_info
+[1.086s] writing ../../../build/udp_cmd_vel_interpreter/udp_cmd_vel_interpreter.egg-info/PKG-INFO
+[1.086s] writing dependency_links to ../../../build/udp_cmd_vel_interpreter/udp_cmd_vel_interpreter.egg-info/dependency_links.txt
+[1.086s] writing entry points to ../../../build/udp_cmd_vel_interpreter/udp_cmd_vel_interpreter.egg-info/entry_points.txt
+[1.086s] writing requirements to ../../../build/udp_cmd_vel_interpreter/udp_cmd_vel_interpreter.egg-info/requires.txt
+[1.086s] writing top-level names to ../../../build/udp_cmd_vel_interpreter/udp_cmd_vel_interpreter.egg-info/top_level.txt
+[1.088s] reading manifest file '../../../build/udp_cmd_vel_interpreter/udp_cmd_vel_interpreter.egg-info/SOURCES.txt'
+[1.088s] writing manifest file '../../../build/udp_cmd_vel_interpreter/udp_cmd_vel_interpreter.egg-info/SOURCES.txt'
+[1.088s] running build
+[1.089s] running build_py
+[1.089s] copying udp_cmd_vel_interpreter/cmd_vel_udp_interpreter.py -> /home/franco/Proyecto_ws/build/udp_cmd_vel_interpreter/build/lib/udp_cmd_vel_interpreter
+[1.089s] running install
+[1.089s] running install_lib
+[1.090s] copying /home/franco/Proyecto_ws/build/udp_cmd_vel_interpreter/build/lib/udp_cmd_vel_interpreter/cmd_vel_udp_interpreter.py -> /home/franco/Proyecto_ws/install/udp_cmd_vel_interpreter/lib/python3.10/site-packages/udp_cmd_vel_interpreter
+[1.090s] byte-compiling /home/franco/Proyecto_ws/install/udp_cmd_vel_interpreter/lib/python3.10/site-packages/udp_cmd_vel_interpreter/cmd_vel_udp_interpreter.py to cmd_vel_udp_interpreter.cpython-310.pyc
+[1.091s] running install_data
+[1.091s] running install_egg_info
+[1.092s] removing '/home/franco/Proyecto_ws/install/udp_cmd_vel_interpreter/lib/python3.10/site-packages/udp_cmd_vel_interpreter-0.0.0-py3.10.egg-info' (and everything under it)
+[1.092s] Copying ../../../build/udp_cmd_vel_interpreter/udp_cmd_vel_interpreter.egg-info to /home/franco/Proyecto_ws/install/udp_cmd_vel_interpreter/lib/python3.10/site-packages/udp_cmd_vel_interpreter-0.0.0-py3.10.egg-info
+[1.093s] running install_scripts
+[1.111s] Installing cmd_vel_udp_interpreter script to /home/franco/Proyecto_ws/install/udp_cmd_vel_interpreter/lib/udp_cmd_vel_interpreter
+[1.111s] Installing enconder_udp_interpreter script to /home/franco/Proyecto_ws/install/udp_cmd_vel_interpreter/lib/udp_cmd_vel_interpreter
+[1.111s] writing list of installed files to '/home/franco/Proyecto_ws/build/udp_cmd_vel_interpreter/install.log'
+[1.130s] Invoked command in '/home/franco/Proyecto_ws/udp_driver_ws/src/udp_cmd_vel_interpreter' returned '0': PYTHONPATH=/home/franco/Proyecto_ws/build/udp_cmd_vel_interpreter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/franco/Proyecto_ws/install/udp_cmd_vel_interpreter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/udp_cmd_vel_interpreter build --build-base /home/franco/Proyecto_ws/build/udp_cmd_vel_interpreter/build install --record /home/franco/Proyecto_ws/build/udp_cmd_vel_interpreter/install.log --single-version-externally-managed install_data

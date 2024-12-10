@@ -1,0 +1,47 @@
+running egg_info
+creating ../../build/qr_nav/qr_nav.egg-info
+writing ../../build/qr_nav/qr_nav.egg-info/PKG-INFO
+writing dependency_links to ../../build/qr_nav/qr_nav.egg-info/dependency_links.txt
+writing entry points to ../../build/qr_nav/qr_nav.egg-info/entry_points.txt
+writing requirements to ../../build/qr_nav/qr_nav.egg-info/requires.txt
+writing top-level names to ../../build/qr_nav/qr_nav.egg-info/top_level.txt
+writing manifest file '../../build/qr_nav/qr_nav.egg-info/SOURCES.txt'
+reading manifest file '../../build/qr_nav/qr_nav.egg-info/SOURCES.txt'
+writing manifest file '../../build/qr_nav/qr_nav.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/franco/Proyecto_ws/build/qr_nav/build
+creating /home/franco/Proyecto_ws/build/qr_nav/build/lib
+creating /home/franco/Proyecto_ws/build/qr_nav/build/lib/qr_nav
+copying qr_nav/reader.py -> /home/franco/Proyecto_ws/build/qr_nav/build/lib/qr_nav
+copying qr_nav/Lectura.py -> /home/franco/Proyecto_ws/build/qr_nav/build/lib/qr_nav
+copying qr_nav/__init__.py -> /home/franco/Proyecto_ws/build/qr_nav/build/lib/qr_nav
+copying qr_nav/camera.py -> /home/franco/Proyecto_ws/build/qr_nav/build/lib/qr_nav
+copying qr_nav/nav.py -> /home/franco/Proyecto_ws/build/qr_nav/build/lib/qr_nav
+running install
+running install_lib
+creating /home/franco/Proyecto_ws/install/qr_nav/lib/python3.10/site-packages/qr_nav
+copying /home/franco/Proyecto_ws/build/qr_nav/build/lib/qr_nav/reader.py -> /home/franco/Proyecto_ws/install/qr_nav/lib/python3.10/site-packages/qr_nav
+copying /home/franco/Proyecto_ws/build/qr_nav/build/lib/qr_nav/Lectura.py -> /home/franco/Proyecto_ws/install/qr_nav/lib/python3.10/site-packages/qr_nav
+copying /home/franco/Proyecto_ws/build/qr_nav/build/lib/qr_nav/__init__.py -> /home/franco/Proyecto_ws/install/qr_nav/lib/python3.10/site-packages/qr_nav
+copying /home/franco/Proyecto_ws/build/qr_nav/build/lib/qr_nav/camera.py -> /home/franco/Proyecto_ws/install/qr_nav/lib/python3.10/site-packages/qr_nav
+copying /home/franco/Proyecto_ws/build/qr_nav/build/lib/qr_nav/nav.py -> /home/franco/Proyecto_ws/install/qr_nav/lib/python3.10/site-packages/qr_nav
+byte-compiling /home/franco/Proyecto_ws/install/qr_nav/lib/python3.10/site-packages/qr_nav/reader.py to reader.cpython-310.pyc
+byte-compiling /home/franco/Proyecto_ws/install/qr_nav/lib/python3.10/site-packages/qr_nav/Lectura.py to Lectura.cpython-310.pyc
+byte-compiling /home/franco/Proyecto_ws/install/qr_nav/lib/python3.10/site-packages/qr_nav/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/franco/Proyecto_ws/install/qr_nav/lib/python3.10/site-packages/qr_nav/camera.py to camera.cpython-310.pyc
+byte-compiling /home/franco/Proyecto_ws/install/qr_nav/lib/python3.10/site-packages/qr_nav/nav.py to nav.cpython-310.pyc
+running install_data
+creating /home/franco/Proyecto_ws/install/qr_nav/share/ament_index
+creating /home/franco/Proyecto_ws/install/qr_nav/share/ament_index/resource_index
+creating /home/franco/Proyecto_ws/install/qr_nav/share/ament_index/resource_index/packages
+copying resource/qr_nav -> /home/franco/Proyecto_ws/install/qr_nav/share/ament_index/resource_index/packages
+copying package.xml -> /home/franco/Proyecto_ws/install/qr_nav/share/qr_nav
+running install_egg_info
+Copying ../../build/qr_nav/qr_nav.egg-info to /home/franco/Proyecto_ws/install/qr_nav/lib/python3.10/site-packages/qr_nav-0.0.0-py3.10.egg-info
+running install_scripts
+Installing camera script to /home/franco/Proyecto_ws/install/qr_nav/lib/qr_nav
+Installing lectura script to /home/franco/Proyecto_ws/install/qr_nav/lib/qr_nav
+Installing navigation script to /home/franco/Proyecto_ws/install/qr_nav/lib/qr_nav
+Installing reader script to /home/franco/Proyecto_ws/install/qr_nav/lib/qr_nav
+writing list of installed files to '/home/franco/Proyecto_ws/build/qr_nav/install.log'
