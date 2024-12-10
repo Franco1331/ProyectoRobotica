@@ -1,0 +1,4 @@
+[console_scripts]
+cmd_vel_udp_interpreter = udp_cmd_vel_interpreter.cmd_vel_udp_interpreter:main
+enconder_udp_interpreter = udp_cmd_vel_interpreter.enconder_udp_interpreter:main
+

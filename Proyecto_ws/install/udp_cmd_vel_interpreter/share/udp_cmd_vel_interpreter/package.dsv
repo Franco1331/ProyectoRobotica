@@ -1,0 +1,6 @@
+source;share/udp_cmd_vel_interpreter/hook/pythonpath.ps1
+source;share/udp_cmd_vel_interpreter/hook/pythonpath.dsv
+source;share/udp_cmd_vel_interpreter/hook/pythonpath.sh
+source;share/udp_cmd_vel_interpreter/hook/ament_prefix_path.ps1
+source;share/udp_cmd_vel_interpreter/hook/ament_prefix_path.dsv
+source;share/udp_cmd_vel_interpreter/hook/ament_prefix_path.sh

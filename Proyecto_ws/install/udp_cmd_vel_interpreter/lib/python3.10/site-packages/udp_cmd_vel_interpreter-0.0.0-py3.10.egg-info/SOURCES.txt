@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../../build/udp_cmd_vel_interpreter/udp_cmd_vel_interpreter.egg-info/PKG-INFO
+../../../build/udp_cmd_vel_interpreter/udp_cmd_vel_interpreter.egg-info/SOURCES.txt
+../../../build/udp_cmd_vel_interpreter/udp_cmd_vel_interpreter.egg-info/dependency_links.txt
+../../../build/udp_cmd_vel_interpreter/udp_cmd_vel_interpreter.egg-info/entry_points.txt
+../../../build/udp_cmd_vel_interpreter/udp_cmd_vel_interpreter.egg-info/requires.txt
+../../../build/udp_cmd_vel_interpreter/udp_cmd_vel_interpreter.egg-info/top_level.txt
+../../../build/udp_cmd_vel_interpreter/udp_cmd_vel_interpreter.egg-info/zip-safe
+resource/udp_cmd_vel_interpreter
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+udp_cmd_vel_interpreter/__init__.py
+udp_cmd_vel_interpreter/cmd_vel_udp_interpreter.py
+udp_cmd_vel_interpreter/enconder_udp_interpreter.py
