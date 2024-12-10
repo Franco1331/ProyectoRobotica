@@ -1,0 +1,6 @@
+[console_scripts]
+camera = qr_nav.camera:main
+lectura = qr_nav.Lectura:main
+navigation = qr_nav.nav:main
+reader = qr_nav.reader:main
+
